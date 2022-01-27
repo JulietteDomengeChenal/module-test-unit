@@ -1,7 +1,7 @@
 import {isInteger} from "./isInteger";
-// Implement the sum function here
-export function sum(a, b) {
+
+export function multiply(a, b) {
     if( isInteger(a) && isInteger(b) ){
-        return a + b;
+        return a*b;
     }
 }
