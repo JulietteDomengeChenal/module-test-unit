@@ -1,6 +1,5 @@
 ### Status
 [![Build Status](https://travis-ci.com/jeanbaptistevilain/tdd-jest.svg?branch=master)](https://travis-ci.com/jeanbaptistevilain/tdd-jest)
-
 [![Node.js CI](https://github.com/JulietteDomengeChenal/module-test-unit/actions/workflows/node.js.yml/badge.svg)](https://github.com/JulietteDomengeChenal/module-test-unit/actions/workflows/node.js.yml)
 
 ## Setup
