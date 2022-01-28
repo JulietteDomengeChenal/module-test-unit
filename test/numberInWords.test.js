@@ -18,6 +18,6 @@ test('should return the number in Words', () => {
 
     expect(numberInWords(431594267)).toBe('quatre cent-trente-et-un millions cinq cent-quatre-vingt-quatorze mille deux cent-soixante-sept');
     expect(numberInWords(400594267)).toBe('quatre cent millions cinq cent-quatre-vingt-quatorze mille deux cent-soixante-sept');
-    expect(numberInWords(72196524832)).toBe('soixante-douze milliards cent-quatre-vingt-seize millions cinq cent-vingt-quatre mille huit cent-trente-deux');
+    expect(numberInWords(72196514832)).toBe('soixante-douze milliards cent-quatre-vingt-seize millions cinq cent-quatorze mille huit cent-trente-deux');
 
 });
